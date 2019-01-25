@@ -1,4 +1,4 @@
-Context.IO - Mailboxes know a lot. Use them.
+[DEPRECATED] - Context.IO - Mailboxes know a lot. Use them.
 ============================================
 [![Build Status](https://travis-ci.org/contextio/ContextIO-node.svg?branch=master)](https://travis-ci.org/contextio/ContextIO-node)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
